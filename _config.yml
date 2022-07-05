@@ -1,0 +1,21 @@
+# Site settings
+title: matt
+description: matt's Resume
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Odunayo Matthew Abraham
+user_description: "The Android platform(OS) is my interest, I love Music(listening..), Hoping one day to be a Full Stack Android Platform Engineer, I also compile android from source based on AOSP for my device(Google Pixel 3)."
+user_title: to-be => Full Stack Software engineer
+email: amatthew642@gmail.com
+twitter_username: amatthew642
+instagram_username: matt_abraham_o
+# facebook_username: 
+# linkedin_username: 
+github_username:  mattDev0
+# medium_username: lorem_ipsum
+# medium_url: lorem_ipsum.medium.com
+# gplus_username:  lorem_ipsum
+
+exclude: ['package.json', 'src' , 'node_modules']
